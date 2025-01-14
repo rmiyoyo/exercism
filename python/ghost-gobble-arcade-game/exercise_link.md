@@ -1,0 +1,1 @@
+- https://exercism.org/tracks/python/exercises/ghost-gobble-arcade-game

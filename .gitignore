@@ -1,6 +1,6 @@
-python/guidos-gorgeous-lasagna/.exercism
-python/guidos-gorgeous-lasagna/*.md
-python/guidos-gorgeous-lasagna/lasagna_test.py
-python/guidos-gorgeous-lasagna/__pycache__
+python/*/.exercism
+python/*/*.md
+python/*/*_test.py
+python/*/__pycache__
 
 !exercise_link.md
