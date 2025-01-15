@@ -1,6 +1,14 @@
-python/*/.exercism
-python/*/*.md
+.exercism
+*.md
+*.spec.js
 python/*/*_test.py
 python/*/__pycache__
+.eslintrc
+.npmrc
+javascript/*/LICENSE
+javascript/*/*.config.js
+javascript/*/package.json
+javascript/*/.gitignore
+javascript/*/*.mjs
 
 !exercise_link.md
